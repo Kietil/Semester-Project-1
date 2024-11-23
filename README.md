@@ -4,7 +4,7 @@
 
 Assignment description here:
 
-Update test
+I'm testing if the Windows machine can update without errors.
 
 ## Resources
 
